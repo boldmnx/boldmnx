@@ -19,7 +19,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocola
 
 ---
 flutter pub get
-
+flutter pub add web_socket_channel
 ---
 {
   "compilerOptions": {
