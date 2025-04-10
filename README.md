@@ -17,6 +17,8 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocola
 
 - choco install microsoft-office-deployment -y
 
+---
+flutter pub get
 
 ---
 {
