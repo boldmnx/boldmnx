@@ -18,8 +18,20 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocola
 - choco install microsoft-office-deployment -y
 
 ---
-flutter pub get
-flutter pub add web_socket_channel
+- flutter pub get
+- flutter pub add web_socket_channel
+
+--- c#
+- dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+- dotnet add package Microsoft.EntityFrameworkCore.Tools
+- Scaffold-DbContext "Server=.\sqlexpress;Database=lab7;User Id=sa;Password=admin123; TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+---
+-  "ConnectionStrings": {
+        "myConnection": "Server=.\\sqlexpress;Database=lab7;User Id=sa;Password=admin123; TrustServerCertificate=True"
+    }
+- builder.Services.AddDbContext<Lab7Context>(o => o.UseSqlServer("myConnection"));
+
 ---
 {
   "compilerOptions": {
