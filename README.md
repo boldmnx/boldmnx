@@ -24,7 +24,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocola
 - dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 - dotnet add package Microsoft.EntityFrameworkCore.Tools
 - Scaffold-DbContext "Server=.\sqlexpress;Database=lab7;User Id=sa;Password=admin123; TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
-- Security=True; TrustServerCertificate=True;
+-  Integrated Security=True;  
 - JsonConvert.SerializeObject()
 -  "ConnectionStrings": {
         "myConnection": "Server=.\\sqlexpress;Database=lab7;User Id=sa;Password=admin123; TrustServerCertificate=True"
