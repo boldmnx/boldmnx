@@ -7,6 +7,8 @@
 [![MEGA](https://img.shields.io/badge/MEGA.nz-D9272E?style=for-the-badge&logo=mega&logoColor=white)](https://mega.nz/folder/kj4RBDJY#nGD8rhkLhsiqRLk9KVBi6w)
 [![TERABOX](https://img.shields.io/badge/Terabox-D9272E?style=for-the-badge&logo=terabox&logoColor=white)](https://www.1024tera.com/sharing/init?surl=Wu-qN3h0Lt_6CrWfgOwzng)
 
+---
+- npx create-expo-app music-app -t with-router
 
 ---
 Set-ExecutionPolicy Bypass -Scope Process -Force; `
