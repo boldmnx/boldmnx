@@ -9,7 +9,8 @@
 
 ---
 - npx create-expo-app music-app -t with-router
-
+---
+- python manage.py migrate store_app zero 
 ---
 Set-ExecutionPolicy Bypass -Scope Process -Force; `
 [System.Net.ServicePointManager]::SecurityProtocol = `
