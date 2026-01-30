@@ -3,11 +3,16 @@
 
 ---
 ## 📁 Миний файлууд  
+## 📁 Миний файлууд  
+
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Q0RNOIqpQy-237ZpbD_FIuXcdD90H26C?usp=sharing)
-[![One Drive][(https://img.shields.io/badge/MEGA.nz-D9272E?style=for-the-badge&logo=mega&logoColor=white)](https://mega.nz/folder/kj4RBDJY#nGD8rhkLhsiqRLk9KVBi6w)](https://ebbllc-my.sharepoint.com/:f:/g/personal/bold-erdene_j_ebb_mn/IgCtAQcmiersR7nWxWzZ5deUAYOboUOE9gAaB54g-I6hu4s?e=3EEtB4)
+
+[![OneDrive](https://img.shields.io/badge/OneDrive-094AB2?style=for-the-badge&logo=onedrive&logoColor=white)](https://ebbllc-my.sharepoint.com/:f:/g/personal/bold-erdene_j_ebb_mn/IgCtAQcmiersR7nWxWzZ5deUAYOboUOE9gAaB54g-I6hu4s?e=3EEtB4)
+
 [![MEGA](https://img.shields.io/badge/MEGA.nz-D9272E?style=for-the-badge&logo=mega&logoColor=white)](https://mega.nz/folder/kj4RBDJY#nGD8rhkLhsiqRLk9KVBi6w)
+
 [![TERABOX](https://img.shields.io/badge/Terabox-D9272E?style=for-the-badge&logo=terabox&logoColor=white)](https://www.1024tera.com/sharing/init?surl=Wu-qN3h0Lt_6CrWfgOwzng)
--
+
 - npx create-expo-app music-app -t with-router
 ---
 - python manage.py migrate store_app zero 
